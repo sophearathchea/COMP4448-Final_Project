@@ -25,7 +25,7 @@ Model evaluation: Adjusted R-squared
 
 1. How a user is going to test the final model. is there any webpage/command line interface. It can be like using curl from command line and calling a function(lambda via API gateway) in the cloud(AWS).
 
-1.Tentative time line of activities.
+1. Tentative time line of activities.
 
 Project Tasks | Tentative Completion Date |
 | --- | --- |
